@@ -163,7 +163,7 @@ I'm always interested in learning, collaborating and working on meaningful techn
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
 - 💻 GitHub: [its-SRIJITA](https://github.com/its-SRIJITA)
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: mukherjeesri03@gmail.com
 
 <div align="center">
 
