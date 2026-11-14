@@ -5,9 +5,7 @@
 
 <div align="center">
 
-# Hi, I'm Srijita Mukherjee 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=750&lines=Computer+Science+Graduate;Aspiring+Data+Scientist;Business+%26+Financial+Analyst;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+<h1>Hi, I'm Srijita Mukherjee <a href="https://commons.wikimedia.org/wiki/File:WMDE_Hand_Wave.gif"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/WMDE_Hand_Wave.gif" width="34" height="34" alt="Animated waving hand" /></a></h1>
 
 *Building with code. Solving problems with data.*
 
