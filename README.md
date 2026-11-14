@@ -31,7 +31,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science and Engineering graduate with an interest in software engineering, data science and machine learning.
+I'm a Computer Science graduate with a strong interest in Data Science, Business & Financial Analysis, and Software Engineering, focused on applying programming and analytical skills to solve real-world problems.
 
 I enjoy exploring how software systems work, building practical applications, working with databases and using data-driven approaches to solve real-world problems.
 
