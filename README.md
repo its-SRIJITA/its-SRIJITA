@@ -7,7 +7,7 @@
 
 # Hi, I'm Srijita Mukherjee 👋
 
-### Computer Science Graduate | Software Engineer | Business & Financial Analysis
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=750&lines=Computer+Science+Graduate;Aspiring+Data+Scientist;Business+%26+Financial+Analyst;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 *Building with code. Solving problems with data.*
 
