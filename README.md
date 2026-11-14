@@ -1,4 +1,4 @@
-<!--
+<!--https://github.com/its-SRIJITA/its-SRIJITA/tree/main
   GitHub Profile README
   Username: its-SRIJITA
 -->
@@ -7,7 +7,7 @@
 
 # Hi, I'm Srijita Mukherjee 👋
 
-### Computer Science Graduate | Software Engineer | ML Enthusiast
+### Computer Science Graduate | Software Engineer | Business & Financial Analysis
 
 *Building with code. Solving problems with data.*
 
