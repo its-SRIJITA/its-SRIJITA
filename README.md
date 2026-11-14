@@ -35,12 +35,12 @@ I'm a Computer Science and Engineering graduate with an interest in software eng
 
 I enjoy exploring how software systems work, building practical applications, working with databases and using data-driven approaches to solve real-world problems.
 
-- 🎓 Computer Science and Engineering Graduate (2026)
-- 💻 Interested in Software Engineering and Data Science
-- 🐍 Working with Python, Java and SQL
-- 📊 Exploring Machine Learning and Data Analytics
-- ⚙️ Interested in backend development, APIs and database systems
-- 🌱 Continuously learning through hands-on projects
+-  Computer Science and Engineering Graduate (2026)
+-  Interested in Software Engineering and Data Science
+-  Working with Python, Java and SQL
+-  Exploring Machine Learning and Data Analytics
+-  Interested in backend development, APIs and database systems
+-  Continuously learning through hands-on projects
 
 ## 🛠️ Technical Skills
 
